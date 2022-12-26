@@ -1,8 +1,0 @@
-{
-  "env": {
-    "DB_USER": "jay-mern",
-    "DB_PASSWORD": "e8rHhvPMdIegIBPF",
-    "DB_NAME": "mern",
-    "JWT_KEY": "supersecret_dont_share"
-  }
-}
