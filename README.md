@@ -1,2 +1,2 @@
 # mern-demo
-This repository has MERN stack demo application code containing React and Node.
+This repository has MERN stack demo application code. I have used React and Node to build this.
